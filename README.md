@@ -1,6 +1,6 @@
 # list_app
 
-A lis Flutter application.
+A Flutter application for List.
 
 ## Getting Started
 
